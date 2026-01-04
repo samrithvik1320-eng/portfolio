@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    display: flex;
+}
+
+.nav{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    width: 200px;
+}
+.navli{
+    text-decoration: none;
+    list-style-type:none;
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+    line-height: 2cm;    
+}
+.l1{
+    color: orange;
+    
+}
+.para{
+    padding: 40px;
+    font-size: 20px;
+}
+.para h1{
+    font-size: 50px;
+}
+.mail a{
+    text-decoration: none;
+    color: orange;
+}
+.con h2{
+    color: orange;
+    padding-top: 50px;
+}
+.con h4{
+    padding-top: 30px;
+}
+.card{
+    display: flex;
+    
+    padding-top: 30px;
+    gap: 100px;
+}
+.pro1{
+    display: flex;
+    flex-direction: column;
+
+}
+.pro1 p{
+    padding-top: 30px;
+}
+.pro1 h5{
+    padding-top: 90px;
+}
+.pro1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.pro2 p{
+    padding-top: 20px;
+}
+.pro2 h5{
+    padding-top:50px;
+    
+}
+.pro2 a{
+    text-decoration: none;
+    color: black;
+}
+
+
