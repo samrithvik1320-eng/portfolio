@@ -15,7 +15,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: orange;
-    width: 900px;
+    width: 1000px;
 }
 .navli{
     text-decoration: none;
@@ -52,4 +52,12 @@ body{
     display: flex;
     padding-top: 50px;
     gap: 30px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+li{
+    padding-left: 40px;
 }

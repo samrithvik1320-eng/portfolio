@@ -39,3 +39,23 @@ body{
     text-decoration: none;
     color: orange;
 }
+.con{
+    padding-top: 100px;
+}
+.con h4{
+    padding-top: 50px;
+
+}
+.con ul{
+    padding-left: 30px;
+    padding-top: 30px;
+    line-height: 2cm;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+li{
+    padding-left: 40px;
+}

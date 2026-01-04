@@ -80,4 +80,11 @@ body{
     color: black;
 }
 
-
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+li{
+    padding-left: 40px;
+}
